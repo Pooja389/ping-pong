@@ -20,14 +20,14 @@ A simple Ping-Pong game built using Python's `turtle` module. The game allows tw
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
 
-```bash
-git clone https://github.com/Pooja389/ping-pong.git
+    ```bash
+    git clone https://github.com/Pooja389/ping-pong.git
 
-Navigate into the project directory:
-```bash
-cd ping-pong
+2. Navigate into the project directory:
+   ```bash
+   cd ping-pong
 
-Run the game
-python pong.py
+3. Run the game
+   python pong.py
