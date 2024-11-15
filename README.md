@@ -30,4 +30,5 @@ A simple Ping-Pong game built using Python's `turtle` module. The game allows tw
    cd ping-pong
 
 3. Run the game
+   ```bash
    python pong.py
